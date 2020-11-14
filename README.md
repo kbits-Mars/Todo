@@ -1,9 +1,6 @@
-#Webpack Starter
+#Todo
 
-
-Este es el proyecto incial 
-para crear aplicaciones 
-utilizando webpack.
+pagina web para listar la tareas pendientes y completadas hecha en javaScript
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
